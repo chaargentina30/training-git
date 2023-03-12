@@ -15,6 +15,7 @@ public class App
         2. brew info git
         3. sync idle-github setting - settings - Version Control -github
         4. share project on github success
+        5. create file read.me and update project
 
 
 
