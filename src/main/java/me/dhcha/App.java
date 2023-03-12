@@ -14,7 +14,7 @@ public class App
             installed
         2. brew info git
         3. sync idle-github setting - settings - Version Control -github
-        4.
+        4. share project on github success
 
 
 
